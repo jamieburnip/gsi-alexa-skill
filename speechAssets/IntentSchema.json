@@ -1,0 +1,24 @@
+{
+  "intents": [
+    { "intent": "GetSlangIntent",
+      "slots": [
+        {
+          "name": "Slang",
+          "type": "LIST_OF_SLANG"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

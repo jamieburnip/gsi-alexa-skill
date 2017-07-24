@@ -1,0 +1,26 @@
+{
+  "name": "geordie-slang-interpreter-alexa-skill",
+  "version": "1.0.0",
+  "description": "An alexa skill that interprets geordie slang",
+  "main": "src/index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamieburnip/gsi-alexa-skill"
+  },
+  "keywords": [
+    "Alexa",
+    "Skill",
+    "Geordie",
+    "Newcastle",
+    "Slang"
+  ],
+  "author": "Jamie Burnip",
+  "license": "ISC"
+}

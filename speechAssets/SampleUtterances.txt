@@ -1,0 +1,11 @@
+GetSlangIntent what does {Slang} mean
+GetSlangIntent what {Slang} means
+GetSlangIntent {Slang} what does it mean
+GetSlangIntent explain {Slang} to me
+GetSlangIntent talk about {Slang}
+GetSlangIntent tell me about {Slang}
+GetSlangIntent give me the slang for {Slang}
+GetSlangIntent {Slang}
+AMAZON.HelpIntent how do I use this
+AMAZON.HelpIntent what shall I say
+AMAZON.HelpIntent what do I do
